@@ -19,6 +19,9 @@ Furthermore, I collaborate on projects at [LabVisio](https://visio.ufes.br/)(*a 
             <a href="https://www.python.org/">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" width="40" />
             </a>
+            <a href="https://www.gnu.org/software/gnu-c-manual/">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" width="40" />
+            </a>
             <a href="https://numpy.org/">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" height="40" width="40" />
             </a>
